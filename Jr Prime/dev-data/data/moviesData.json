@@ -1,0 +1,158 @@
+[
+    {
+        "type":"web series",
+        "name":"Money Heist",
+        "year":2017,
+        "18+":true,
+        "seasons":5,
+        "genre":["crime","drama","mystery","thriller","action"],
+        "storyLine":"An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+        "actors":[" Úrsula Corberó, Álvaro Morte, Itziar Ituño"],
+        "creators":[" Álex Pina"],
+        "language":["English","Hindi"],
+        "episodes":[10,10,10,10,10],
+        "avgRating":8.8,
+        "duration":45
+    },
+
+    {
+        "type":"web series",
+        "name":"Breaking Bad",
+        "year":2008,
+        "18+":true,
+        "seasons":5,
+        "genre":["crime","drama","thriller"],
+        "storyLine":"A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+        "actors":["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+        "creators":["Vince Gilligan"],
+        "language":["English"],
+        "episodes":[7,13,13,13,16],
+        "avgRating":9.4,
+        "duration":50
+    },
+
+    {
+        "type":"web series",
+        "name":"Silicon Valley",
+        "year":2014,
+        "18+":false,
+        "seasons":6,
+        "genre":["comedy","tech"],
+        "storyLine":"Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper.",
+        "actors":["Thomas Middleditch","T.J. Miller","Josh Brener"],
+        "creators":["John Altschuler","Mike Judge", "Dave Krinsky"],
+        "language":["English"],
+        "episodes":[10,10,10,10,10,10],
+        "avgRating":8.2,
+        "duration":20
+    },
+
+    {
+        "type":"movie",
+        "name":"M.S. Dhoni: The Untold Story",
+        "year":2016,
+        "18+":false,
+        "genre":["biography","sports"],
+        "storyLine":"M.S. Dhoni: The Untold Story is a 2016 Indian Hindi-language biographical sports drama film written and directed by Neeraj Pandey. It is based on the life of former Test, ODI and T20I captain of the Indian national cricket team, Mahendra Singh Dhoni.",
+        "actors":["Sushant Singh Rajput","Kiara Advani","Disha Patani"],
+        "creators":["Dheeraj pandey"],
+        "language":["Hindi"],
+        "avgRating":9.0,
+        "duration":150
+    },
+
+    {
+        "type":"movie",
+        "name":"Iron Man",
+        "year":2008,
+        "18+":false,
+        "genre":["adventure","action","sci-fi"],
+        "storyLine":"After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "actors":["Robert Downey Jr.", "Gwyneth Paltrow","Terrence Howard"],
+        "creators":[" Mark Fergus", "Hawk Ostby", "Art Marcum"],
+        "language":["English","Hindi"],
+        "avgRating":8.1,
+        "duration":150
+    },
+
+    {
+        "type":"web series",
+        "name":"Dark",
+        "year":2017,
+        "18+":true,
+        "seasons":3,
+        "genre":["sci-fi","mystery","thriller"],
+        "storyLine":"A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+        "actors":["Louis Hofmann","Karoline Eichhorn","Lisa Vicari"],
+        "creators":["Baran bo Odar","Jantje Fries"],
+        "language":["English","Hindi"],
+        "episodes":[10,10,10],
+        "avgRating":8.8,
+        "duration":55
+    },
+
+    {
+        "type":"web series",
+        "name":"Game of Thrones",
+        "year":2011,
+        "18+":true,
+        "seasons":8,
+        "genre":["crime","drama","mystery","thriller","romance","action","history","war"],
+        "storyLine":"Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+        "actors":["Emilia Clarke", "Peter Dinklage", "Kit Harington"],
+        "creators":["David Benioff", "D.B. Weiss"],
+        "language":["English","Hindi"],
+        "episodes":[10,10,10,10,10,10,7,6],
+        "avgRating":9.2,
+        "duration":60
+    },
+
+    {
+        "type":"web series",
+        "name":"Elite",
+        "year":2018,
+        "18+":true,
+        "seasons":4,
+        "genre":["crime","drama","thriller"],
+        "storyLine":"When three working-class teenagers begin attending an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.",
+        "actors":["Itzan Escamilla", "Omar Ayuso", "Miguel Bernardeau"],
+        "creators":[" Darío Madrona", "Carlos Montero"],
+        "language":["English","Hindi"],
+        "episodes":[8,8,8,8],
+        "avgRating":7.5,
+        "duration":50
+    },
+
+    {
+        "type":"web series",
+        "name":"Sex Education",
+        "year":2019,
+        "18+":true,
+        "seasons":2,
+        "genre":["comedy","drama"],
+        "storyLine":"A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "actors":["Asa Butterfield", "Gillian Anderson", "Ncuti Gatwa"],
+        "creators":["Laurie Nunn"],
+        "language":["English","Hindi"],
+        "episodes":[8,8],
+        "avgRating":8.3,
+        "duration":45
+    },
+    
+    {
+        "type":"web series",
+        "name":"The Boys",
+        "year":2019,
+        "18+":true,
+        "seasons":2,
+        "genre":["action","crime","drama"],
+        "storyLine":"The boys very cool",
+        "actors":["Karl Urban","Jack Quaid","Antony Starr"],
+        "creators":["Eric Kripke"],
+        "language":["English","Hindi"],
+        "episodes":[10,10],
+        "avgRating":8.7,
+        "duration":45
+    }
+
+]
